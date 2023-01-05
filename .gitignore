@@ -1,0 +1,9 @@
+#ignorando checkpoints do jupyter notebook
+.ipynb_checkpoints
+
+#ignorando as pastas data, onde salvamos os arquivos
+data
+
+Output_noteb_techcom
+layout
+client_secrets.json
